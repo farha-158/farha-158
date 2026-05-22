@@ -12,9 +12,9 @@ Backend Developer specialized in NestJS and Node.js.
 - Git & GitHub
 
 ## Projects
-- Learning Management System
+- PM101
 - Online Shop Backend
-- Gym Management System
+- Scout Talent
 - ERP System
 
 ## Currently Learning
